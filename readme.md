@@ -1,0 +1,13 @@
+# Roadmap Developer
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<br/>
+<h2>📌 Courses </h2>
+
+| Organization | Course | Start Date | Status | Stack |
+| -------|-----------|------------|------------- | -- | 
+| OneBitCode | [Programador Full Stack JavaScript Profissiona![OBC](https://i.postimg.cc/hPKZ6zsS/obc.png)]()| 14/04/2022| <a href=""> ![progress](https://progress-bar.dev/75/ "progresso")  </a> | HTML5 / CSS3 / JS / GIT / NodeJS / ReactJS |
+| Udemy | [Curso de JavaScript e TypeScript do básico ao avançado 2022![Udemy](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg)](https://www.udemy.com/share/1026xa3@U1llYyKoraXCd5KCGCqBvsv5BBODZwOdolXPR7GsfoEUF0SI8dwavrOxYOO4FOoB-g==/) </a> 146Hrs | 04/05/2022 | <a href="">  ![progress](https://progress-bar.dev/60/ "progresso") </a> | JavaScript / NodeJS / MySQL / Postgres / Knex /TypeScript / MongoDB / ReactJS / NextJS / Jest / SOLID / Design Patterns / HTML / CSS |
+| Udemy | [Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos![Udemy](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg)](https://www.udemy.com/share/101WqG3@wZ97j9abyuWa9HLLmcLGERfvlzYOEZvHcfulmCeA3co88F1wCtIj61gbC18VRl0dlg==/) 114,5Hrs | 03/02/2022 | <a href=""> ![progress](https://progress-bar.dev/100/ "progresso")  </a> | HTML5 / CSS3 / BootStrap 4 / JS / ES7 / PHP 7 / POO / MySQL / JQuery / MVC / API / IONIC / Wordpress |
+| Udemy | [Curso Full Stack Developer ![Udemy](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg)](https://www.udemy.com/share/104phk3@05iQ4UY6Y32txgm7wMld933rpVbzHpwxJOsRcXMkPgEAWW9soavPdimNKC1mlDw5pg==/) 11Hrs | 03/02/2022 | <a href=""> ![progress](https://progress-bar.dev/100/ "progresso")  </a> | Java / SpringBoot 2.x / Spring Data JPA / Hibernate / MySQL / Angular 11 / TypeScript / HTML / CSS |
